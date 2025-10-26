@@ -1,0 +1,22 @@
+@use "sass:color";
+
+// Coaching – growth and leadership
+$primary: #5b2c6f;  // Deep royal purple
+$secondary: #a569bd; // Lilac accent
+$bg-light: #f7f3fa;
+$text-color: #2a1a2f;
+$heading-color: #4a235a;
+
+// Typography
+$font-body: 'Inter', sans-serif;
+$font-heading: 'Poppins', sans-serif;
+$font-mono: 'Source Code Pro', monospace;
+
+// Links
+a {
+  color: $secondary;
+  &:hover {
+    color: color.scale($secondary, $lightness: -10%);
+  }
+}
+
