@@ -1,32 +1,189 @@
 ---
-title: Coaching
+title: Coaching & Professional Development
 ---
 
-# Career & Leadership Coaching
+<!-- Hero Section -->
+<div class="parallax light-overlay" style="background-image: url('images/hero-coaching.jpg'); --overlay-opacity: 0.35;">
+  <div class="overlay">
+   <h1>Career & Leadership Coaching</h1>
+   <h3>From Research to Leadership <br> Build clarity, confidence, and impact</h3>
+  </div>
+</div>
+
+# 1. Overview
 
 <div class="service-card card">
-## Services
-- Executive and career coaching
-- Leadership skill development
-- Personal growth and goal setting
+
+I offer personalised career and leadership coaching for professionals in science, technology, and data-driven fields.
+
+Drawing on 15+ years of experience across academia and industry — from research at the Max Planck Institute and AstraZeneca to leading international teams — I help clients navigate transitions, develop authentic leadership, and align their careers with their strengths and values.
+
+My approach combines evidence-based coaching, strategic insight, and reflective practice to support growth in demanding, complex environments.
+
+**Coaching helps you:**
+- Build leadership presence and confidence  
+- Clarify career direction and long-term goals  
+- Strengthen communication, influence, and decision-making  
+- Navigate transitions between roles, sectors, or stages  
+- Develop resilience and focus for sustainable success  
+
+</div>
+
+# 2. Coaching Services
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Career Coaching {{< iconify lucide:briefcase >}} {{< iconify lucide:map >}}
+
+- Define your career vision and direction  
+- Navigate transitions, promotions, or career changes  
+- Strengthen your professional identity and confidence  
+- Align your work with your values and long-term goals  
+
 </div>
 
 <div class="service-card card">
-## Who This Is For
-- Mid-level to senior professionals
-- Individuals transitioning roles or industries
-- Scientists or data professionals seeking leadership guidance
+
+### Leadership Coaching {{< iconify lucide:users >}} {{< iconify lucide:compass >}}
+
+- Develop your leadership style and authentic voice  
+- Build influence and communication across teams  
+- Manage complexity, decision-making, and strategic focus  
+- Lead with empathy, clarity, and purpose  
+
 </div>
 
 <div class="service-card card">
-## How I Work
-- One-on-one coaching tailored to your goals
-- Actionable frameworks for career growth and leadership
-- Hands-on exercises and reflective sessions
+
+### Personal & Professional Growth {{< iconify lucide:lightbulb >}} {{< iconify lucide:heart >}}
+
+- Increase self-awareness and emotional intelligence  
+- Overcome imposter syndrome or perfectionism  
+- Build resilience and balance in high-performance settings  
+- Turn reflection into actionable growth  
+
+</div>
+
+</div>
+
+# 3. Who I Work With
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Scientists & Data Professionals {{< iconify lucide:flask-conical >}} {{< iconify lucide:cpu >}}
+
+- Transitioning into leadership or management roles  
+- Moving from academia to industry or hybrid positions  
+- Developing communication and influence beyond technical expertise  
+
 </div>
 
 <div class="service-card card">
-## Next Steps
-[Contact me](contact.qmd) to arrange a coaching session
+
+### Academics & Researchers {{< iconify lucide:book >}} {{< iconify lucide:graduation-cap >}}
+
+- Building leadership within research teams or departments  
+- Preparing for tenure, promotion, or sector transition  
+- Enhancing visibility and strategic career planning  
+
+</div>
+
+<div class="service-card card">
+
+### Mid- to Senior-Level Professionals {{< iconify lucide:target >}} {{< iconify lucide:bar-chart >}}
+
+- Refining leadership approach and presence  
+- Aligning career choices with long-term goals  
+- Managing growth, uncertainty, and professional balance  
+
+</div>
+
+</div>
+
+# 4. Coaching Approach
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Tailored & Reflective {{< iconify lucide:settings >}} {{< iconify lucide:message-square >}}
+
+- One-to-one sessions shaped around your context and goals  
+- Structured frameworks for self-reflection and progress tracking  
+- Focus on clarity, confidence, and sustainable growth  
+
+</div>
+
+<div class="service-card card">
+
+### Evidence-Based & Practical {{< iconify lucide:check-circle >}} {{< iconify lucide:brain >}}
+
+- Draws from leadership psychology and behavioural science  
+- Grounded in real-world experience leading interdisciplinary teams  
+- Turns insight into actionable strategies for growth and impact  
+
+</div>
+
+<div class="service-card card">
+
+### Sustained Development {{< iconify lucide:trending-up >}} {{< iconify lucide:calendar-check-2 >}}
+
+- Ongoing accountability and tailored feedback  
+- Optional integration with mentoring for technical professionals  
+- Flexible engagement options — from short intensives to long-term partnerships  
+
+</div>
+
+</div>
+
+# 5. Get in Touch
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Arrange a Session {{< iconify lucide:mail >}}
+
+Ready to start your coaching journey?  
+Contact me to discuss your goals, book your first session, or explore a customised coaching plan.
+
+📧 Email: [coaching@drianhenry.co.uk](mailto:coaching@drianhenry.co.uk)  
+🌐 Book online: [Contact Form →](contact.qmd)
+
+</div>
+
+<div class="service-card card">
+
+### Flexible Coaching Formats {{< iconify lucide:book-open >}}
+
+- Online sessions via Zoom or Teams  
+- Short-term (3–6 sessions) or long-term coaching engagements  
+- Optional integration with mentoring for scientists and data professionals  
+
+</div>
+
+<div class="service-card card">
+
+### Next Steps {{< iconify lucide:compass >}}
+
+- Initial consultation to define objectives and priorities  
+- Tailored programme built around measurable outcomes  
+- Continuous reflection and feedback for lasting growth  
+
+</div>
+
+</div>
+
+---
+
+<div class="service-card card" style="text-align:center; margin-top:2rem;">
+  <h3>Bridging Tutoring & Coaching {{< iconify lucide:link >}}</h3>
+  <p>Coaching builds on mentoring — shifting from <em>what to learn</em> to <em>how to lead and grow</em>.  
+  It supports the transition from academic or technical expertise to confident, authentic leadership.</p>
+  <p><a href="https://tutoring.drianhenry.co.uk">Explore Tutoring & Mentoring →</a></p>
 </div>
 
