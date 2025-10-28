@@ -1,5 +1,13 @@
 ---
-title: Coaching & Professional Development
+title: "Career & Leadership Coaching – Dr Ian Henry"
+description: "Personalised coaching for scientists and data professionals to develop leadership, career growth, and strategic skills."
+author: "Dr Ian Henry"
+keywords: ["career coaching", "leadership coaching", "scientist coaching", "data professional coaching", "executive coaching", "career development"]
+canonical: "https://coaching.drianhenry.co.uk/"
+og-title: "Career & Leadership Coaching – Dr Ian Henry"
+og-description: "Unlock career potential with one-to-one coaching, leadership development, and personal growth for science and data professionals."
+og-image: "images/hero-coaching.jpg"
+twitter-card: "summary_large_image"
 ---
 
 <!-- Hero Section -->
